@@ -1,4 +1,4 @@
-#How to run my bot#
+# How to run my bot
 1. **What do you need** 
   *Python compiler*
   *Pillow package*
